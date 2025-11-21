@@ -85,7 +85,7 @@ A comprehensive **data engineering solution** that transforms raw Los Angeles cr
 ### 📊 **Advanced Analytics**
 
 - **7 Dimension Tables** for rich analysis
-- **1.3M+ Fact Records** with full lineage
+- **1M+ Fact Records** with full lineage
 - **8 Crime Categories** intelligently mapped
 - **12 Premise Types** for location analysis
 
