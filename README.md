@@ -138,7 +138,7 @@ graph LR
 | 🟡 **Gold**   | Business logic     | Star schema, Surrogate keys, Aggregations  | Analytics-ready dimensional model |
 | 🔵 **BI**     | Visualization      | DirectQuery, Interactive dashboards        | Business insights                 |
 
-### 💻 Technology Stack
+### Technology Stack
 
 <div align="center">
 
@@ -652,7 +652,7 @@ For each CSV file uploaded:
 
 ---
 
-## 📖 Usage Guide
+## Usage Guide
 
 ### Running the Pipeline
 
