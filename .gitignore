@@ -1,0 +1,46 @@
+# Databricks
+.databricks/
+*.dbc
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+*.pyc
+
+# Power BI
+*.pbix.tmp
+
+# Data files (too large)
+*.csv
+*.parquet
+data/raw/*
+!data/sample/
+
+# Checkpoints
+checkpoints/
+
+# Environment
+.env
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Credentials
+credentials.json
+token.txt
+*.pem
+
+# Logs
+*.log
+logs/
