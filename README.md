@@ -17,24 +17,24 @@
 
 ## 📋 Table of Contents
 
-- [🎯 Project Overview](#project-overview)
-- [✨ Key Features](#key-features)
-- [🗂️ Architecture](#architecture)
-- [📊 Dashboard Preview](#dashboard-preview)
-- [💻 Technology Stack](#technology-stack)
-- [📁 Project Structure](#project-structure)
-- [🚀 Pipeline Components](#pipeline-components)
-- [🔄 Data Transformations](#data-transformations)
-- [🛠️ Setup Instructions](#setup-instructions)
-- [📖 Usage Guide](#usage-guide)
-- [📊 Data Schema](#data-schema)
-- [🎯 Best Practices Implemented](#best-practices-implemented)
-- [🚧 Future Enhancements](#future-enhancements)
-- [👥 Authors](#authors)
+- [Project Overview](#project-overview)
+- [Key Features](#key-features)
+- [Architecture](#architecture)
+- [Dashboard Preview](#dashboard-preview)
+- [Technology Stack](#technology-stack)
+- [Project Structure](#project-structure)
+- [Pipeline Components](#pipeline-components)
+- [Data Transformations](#data-transformations)
+- [Setup Instructions](#setup-instructions)
+- [Usage Guide](#usage-guide)
+- [Data Schema](#data-schema)
+- [Best Practices Implemented](#best-practices-implemented)
+- [Future Enhancements](#future-enhancements)
+- [Authors](#authors)
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 
 A comprehensive **data engineering solution** that transforms raw Los Angeles crime data into actionable insights through a modern data stack. This project implements industry best practices including **medallion architecture**, **incremental data processing**, and **dimensional modeling** to process over **1 million crime records** efficiently.
 
@@ -54,7 +54,7 @@ A comprehensive **data engineering solution** that transforms raw Los Angeles cr
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 <table>
 <tr>
@@ -105,7 +105,7 @@ A comprehensive **data engineering solution** that transforms raw Los Angeles cr
 
 ---
 
-## 🗂️ Architecture
+## Architecture
 
 <div align="center">
 
@@ -154,7 +154,7 @@ graph LR
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 <div align="center">
 
@@ -192,7 +192,7 @@ _Hourly, daily, and monthly crime trends with heatmap visualization_
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 los-angeles-crime-data-engineering/
@@ -222,7 +222,7 @@ los-angeles-crime-data-engineering/
 
 ---
 
-## 🚀 Pipeline Components
+## Pipeline Components
 
 <div align="center">
 
@@ -415,7 +415,7 @@ Features:
 
 ---
 
-## 🔄 Data Transformations
+## Data Transformations
 
 ### Why Incremental Processing Matters
 
@@ -488,7 +488,7 @@ new_data.join(
 
 ---
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
 ### Prerequisites
 
@@ -717,7 +717,7 @@ ORDER BY first_processed;
 
 ---
 
-## 📊 Data Schema
+## Data Schema
 
 ### Bronze Layer Schema (Raw)
 
@@ -845,7 +845,7 @@ ORDER BY first_processed;
 
 ---
 
-## 🎯 Best Practices Implemented
+## Best Practices Implemented
 
 ### Data Engineering Excellence
 
@@ -915,7 +915,7 @@ ORDER BY first_processed;
 
 ---
 
-## 🚧 Future Enhancements
+## Future Enhancements
 
 ### Advanced Analytics
 
@@ -952,7 +952,7 @@ ORDER BY first_processed;
 
 ---
 
-## 👥 Authors
+## Authors
 
 <div align="center">
 
@@ -981,7 +981,7 @@ ORDER BY first_processed;
 
 ---
 
-## 📚 Documentation
+## Documentation
 
 ### Additional Resources
 
@@ -1001,7 +1001,7 @@ ORDER BY first_processed;
 
 ---
 
-## 🏆 Key Achievements
+## Key Achievements
 
 <div align="center">
 
